@@ -7,7 +7,7 @@ This is a public API that returns basic information in JSON format; including em
 ```bash
   git clone https://github.com/Julzpeter/djangoapi.git
 ```
-cd your-repo
+- **cd your-repo**
 
 2. Create virtual environment :
 
