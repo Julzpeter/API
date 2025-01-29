@@ -4,8 +4,9 @@ This is a public API that returns basic information in JSON format; including em
 ## Setup Instructions
 
 1. Clone the repository :
-  ````bash
-  git clone https://github.com/Julzpeter/djangoapi.git```
+  ```bash
+  git clone https://github.com/Julzpeter/djangoapi.git
+  ```
   cd your-repo
 
 2. Create virtual environment :
