@@ -8,7 +8,7 @@ def get_info(request):
         data = {
             "email":"chepngetichjuliet@gmail.com",
             "current_datetime": datetime.utcnow().isoformat()+ "Z",
-            "github_url": "https://github.com/Julzpeter/djangoapi.git",
+            "github_url": "https://github.com/Julzpeter/API",
         }
         return JsonResponse(data, status=200)
     else:
