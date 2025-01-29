@@ -32,15 +32,15 @@ python3 manage.py runserver
 
 ## API Documentation
 
-## Endpoint
+1. Endpoint
 - **URL**: `GET /api/  `
 - **Description**: Returns email, current datetime and github url
 
-## Request
+2. Request
 - **Method**: `GET`
 - **URL**: `https://your-app-url/api/`
 
-## Response
+3. Response
 - **Status Code**: `200 OK`
 - **Response Format**: JSON
 - **Example Response**:
@@ -51,6 +51,7 @@ python3 manage.py runserver
         "github_url":"https://github.comyourusernameyour-repo" 
     }
 
-## backlinks
+## Backlinks
+
 Looking to hire a dev?
-[Python](https://hng.tech/hire/python-developers)
+[PYTHON](https://hng.tech/hire/python-developers)
