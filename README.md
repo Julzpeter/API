@@ -11,18 +11,18 @@ cd your-repo
 
 2. Create virtual environment :
 
- On macOS/Linux:
- python3 -m venv venv
+- **On macOS/Linux**:
+python3 -m venv venv
 
-On Windows:
+- **On Windows**:
 python3 -m venv venv
 
 3. Activate the virtual environment:
 
-On macOs/Linux:
+- **On macOs/Linux**:
 source venv/bin/activate
 
-On Windows:
+- **On Windows**:
 venv Scripts/activate
 
 4. Install dependencies :
