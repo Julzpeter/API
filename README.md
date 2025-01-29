@@ -51,6 +51,6 @@ python3 manage.py runserver
         "github_url":"https://github.comyourusernameyour-repo" 
     }
 
-## Backlinks
-Looking to hire skilled developers? Check out this link: 
-[HNG Python Developers](https://hng.tech/hire/python-developers)
+## backlinks
+Looking to hire a dev?
+[Python](https://hng.tech/hire/python-developers)
