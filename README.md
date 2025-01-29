@@ -11,8 +11,8 @@ cd your-repo
 
 2. Create virtual environment :
 
-On macOS/Linux:
-python3 -m venv venv
+ On macOS/Linux:
+ python3 -m venv venv
 
 On Windows:
 python3 -m venv venv
