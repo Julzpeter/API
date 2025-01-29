@@ -52,6 +52,5 @@ python3 manage.py runserver
     }
 
 ## Backlinks
-Looking to hire skilled developers? Check out this link:
-
-- [HNG Python Developers](https://hng.tech/hire/python-developers)
+Looking to hire skilled developers? Check out this link
+[HNG Python Developers](https://hng.tech/hire/python-developers)
